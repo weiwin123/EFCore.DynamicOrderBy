@@ -1,8 +1,10 @@
 # EFCore.DynamicOrderBy
 
-EFCore 多条件排序 例如：order by A,order by B,order by c desc；EFCore multi condition sorting, for example: order by A, order by B, order by c desc
+本组件扩展了EFCore排序支持多条件排序 例如：order by A,order by B,order by c desc
+<br>
+This component extends the EFCore sorting support for multi condition sorting, such as: order by A, order by B, order by c desc
 
-# 使用方法
+# 使用方法 Usage method
 
 ```
  var querys = ctx.TTest.DynamicOrderBy(
