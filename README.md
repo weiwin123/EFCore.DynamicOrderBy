@@ -1,8 +1,8 @@
 # EFCore.DynamicOrderBy
 
-本组件扩展了EFCore排序支持动态多条件排序 例如：如果满足A条件把A加入排序，如果满足B条件把B加入排序
+本组件扩展了EFCore排序 1.支持直接使用数据表字段排序 2.支持多条件排序
 <br>
-This component extends the EFCore sorting support for dynamic multi condition sorting. For example, if the A condition is met, add A to the sorting, and if the B condition is met, add B to the sorting
+This component extends EFCore sorting 1. Supports direct use of data table field sorting 2. Supports multi condition sorting
 
 # 使用方法 Usage method
 
